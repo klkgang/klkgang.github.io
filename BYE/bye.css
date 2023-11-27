@@ -1,0 +1,15 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+
+
+p {
+    font-size: 40px;
+    color: #8B4513;
+    margin-top: 50px;
+}

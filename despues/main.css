@@ -1,0 +1,8 @@
+body {
+    background-color: #FAEBD7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
